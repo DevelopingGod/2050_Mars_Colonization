@@ -130,7 +130,7 @@ b
   font-size: 0.75rem;
   position: relative;
   top: 20px;
-  left: 530px;
+  left: 655px;
 }
 
 .contact_me
