@@ -130,7 +130,7 @@ b
   font-size: 0.75rem;
   position: relative;
   top: 20px;
-  left: 645px;
+  left: 655px;
 }
 
 .contact_me
@@ -199,7 +199,7 @@ b
 .footer-link
 {
   position: relative;
-  left: 465px;
+  left: 490px;
   font-size: 1.3rem;
 }
 
@@ -448,7 +448,7 @@ h1
 	width: 20px;
 	margin-left: -15px;
 	position: absolute;
-	left: 180px;
+	left: 210px;
 	top: 270px;
 }
 .sunny:before {
@@ -492,7 +492,7 @@ h1
 	width: 50px;
 	margin-left: -60px;
 	position: absolute;
-	left: 310px;
+	left: 340px;
 	top: 320px;
 }
 .cloudy:after {
@@ -531,7 +531,7 @@ h1
 	width: 50px;
 	margin-left: -60px;
 	position: absolute;
-	left: 498px;
+	left: 528px;
 	top: 330px;
 }
 .rainy:after {
@@ -672,7 +672,7 @@ h1
 	width: 70px;
 	margin-left: -40px;
 	position: absolute;
-	left: 700px;
+	left: 730px;
 	top: 340px;
   	transform: rotate(40deg);
 }
@@ -722,7 +722,7 @@ h1
   	margin-left: -10px;
 	opacity: 1;
 	position: absolute;
-  	left: 860px;
+  	left: 890px;
   	top: 400px;
 }
 .starry:after {
@@ -776,7 +776,7 @@ h1
 	width: 50px;
 	margin-left: -70px;
 	position: absolute;
-	left: 1025px;
+	left: 1055px;
 	top: 320px;
 }
 .stormy:after {
@@ -837,7 +837,7 @@ h1
 	width: 50px;
 	margin-left: -60px;
 	position: absolute;
-	left: 1184px;
+	left: 1214px;
 	top: 320px;
 }
 .snowy:after {
