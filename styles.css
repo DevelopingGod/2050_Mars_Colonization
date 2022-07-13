@@ -69,7 +69,7 @@ b
   position: relative;
   align-items: center;
   top: 2px;
-  left: 520px;
+  left: 665px;
   background: #13244a;
   background-image: -webkit-linear-gradient(top, #13244a, #074870);
   background-image: -moz-linear-gradient(top, #13244a, #074870);
@@ -130,7 +130,7 @@ b
   font-size: 0.75rem;
   position: relative;
   top: 20px;
-  left: 530px;
+  left: 645px;
 }
 
 .contact_me
@@ -199,7 +199,7 @@ b
 .footer-link
 {
   position: relative;
-  left: 410px;
+  left: 465px;
   font-size: 1.3rem;
 }
 
@@ -401,7 +401,7 @@ h1
 {
   background: none;
   position: relative;
-  left: 70px;
+  left: 335px;
   bottom: 120px;
   transform: rotate(272deg);
 }
@@ -448,7 +448,7 @@ h1
 	width: 20px;
 	margin-left: -15px;
 	position: absolute;
-	left: 90px;
+	left: 180px;
 	top: 270px;
 }
 .sunny:before {
@@ -492,7 +492,7 @@ h1
 	width: 50px;
 	margin-left: -60px;
 	position: absolute;
-	left: 240px;
+	left: 310px;
 	top: 320px;
 }
 .cloudy:after {
@@ -531,7 +531,7 @@ h1
 	width: 50px;
 	margin-left: -60px;
 	position: absolute;
-	left: 428px;
+	left: 498px;
 	top: 330px;
 }
 .rainy:after {
@@ -672,7 +672,7 @@ h1
 	width: 70px;
 	margin-left: -40px;
 	position: absolute;
-	left: 630px;
+	left: 700px;
 	top: 340px;
   	transform: rotate(40deg);
 }
@@ -722,7 +722,7 @@ h1
   	margin-left: -10px;
 	opacity: 1;
 	position: absolute;
-  	left: 790px;
+  	left: 860px;
   	top: 400px;
 }
 .starry:after {
@@ -776,7 +776,7 @@ h1
 	width: 50px;
 	margin-left: -70px;
 	position: absolute;
-	left: 955px;
+	left: 1025px;
 	top: 320px;
 }
 .stormy:after {
@@ -837,7 +837,7 @@ h1
 	width: 50px;
 	margin-left: -60px;
 	position: absolute;
-	left: 1114px;
+	left: 1184px;
 	top: 320px;
 }
 .snowy:after {
